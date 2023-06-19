@@ -4,8 +4,8 @@
 
 # Explicação do desafio:
 
-![Minibuses on Venus](./assets/Minibus.png)
+![Minibuses on Venus](./assets/Explanation.png)
 
 # Logs de submissões
 
-#![LogsSubmissao](./assets/)
+#![LogsSubmissao](./assets/Log.png)
