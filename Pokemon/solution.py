@@ -3,7 +3,6 @@ import sys
 def calculate_max_strength(n, q, pokemon_strengths, swaps):
     max_strengths = []
     current_strength = 0
-    max_difference = lambda a, b: a - b if a - b > 0 else 0
 
     for i in range(n + 1):
         if pokemon_strengths[i] > pokemon_strengths[i - 1]:

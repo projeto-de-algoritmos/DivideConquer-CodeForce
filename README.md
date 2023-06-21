@@ -1,6 +1,6 @@
-# Desafios Spoj
+# Desafios CodeForce
 
-**Conteúdo da Disciplina**: Grafos 1<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -61,7 +61,7 @@ Para submeter as resoluções dos exercicíos basta seguir os passos abaixo:
 
 ## Outros 
 O vídeo pode ser acessado através do
-[link]()
+[]()
 
 
 
